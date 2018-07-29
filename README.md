@@ -3,6 +3,8 @@ FitnessTracker
 
 EDA and ML experiments & application to Activity & Fitness tracking data sets
 
+PROJECT PROPOSAL SLIDE DECK: https://docs.google.com/presentation/d/1fvgtZyJmRIaSYgzbv0zXyYFQvxNO2AvCfGBCo7-0nDM/edit#slide=id.g3cef3a5de4_0_0
+
 Project Organization
 ------------
 
